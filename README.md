@@ -203,22 +203,6 @@ unit-flow JavaScript engine, unit-flow and partial-capacity invariants, workbook
 validation, state persistence, theme persistence, and a public-release privacy
 scan.
 
-## Put it on GitHub
-
-Create an empty repository on GitHub, then run from this folder:
-
-```bash
-git init
-git add .
-git commit -m "Initial Python manufacturing scheduler"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-git push -u origin main
-```
-
-Before pushing, run the tests and confirm `git status` contains only files you
-intend to publish.
-
 ## License
 
 This project is available under the [MIT License](LICENSE).
